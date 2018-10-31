@@ -1,0 +1,8 @@
+scipy
+tensorflow
+keras
+pydot
+
+git+https://github.com/PistaSaki/pitf.git
+git+https://github.com/PistaSaki/piplot.git
+git+https://github.com/PistaSaki/polys.git
